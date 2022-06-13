@@ -2,6 +2,10 @@
 
 ### [Site link](https://serene-keller-f332c8.netlify.app/)
 
+<kbd>
+  <img align="right" alt="img" src="6zz5iFj.jpeg"  />
+</kbd>
+
  ### 🛠 The tech stack is:
 
 
